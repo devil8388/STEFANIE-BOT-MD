@@ -37,7 +37,7 @@
 ## Developers
   <div align="center">
     
-  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) 
+  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github. |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Tutux](https://github.com/Tut100)](https://githb.com/Tutux1) 
 ----|----|----
 [MrChaby](https://github.com/MrChaby)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [Tutux](https://github.com/Tutux1)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
